@@ -9,7 +9,7 @@ TEAMCODE is a full-stack web application designed to provide real-time code sync
 - **Real-time code synchronization** using WebSockets for instantaneous updates across all users
 - **User-friendly interface** designed in React
 - **State and session management** on the server side with Node.js
-- **Rich coding environment** with Monaco Editor, including syntax highlighting and autocompletion
+- **Rich coding environment** with CodeMirror Editor, including syntax highlighting and autocompletion
 
 ## **Technologies Used**
 
